@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>sign in</title>
+<style>
+th{
+   color:blue;
+   font: Comic Sans MS;
+   font-size:70px;
+   }
+h1{
+   font: Comic Sans MS;
+  }
+.form {
+       position:absolute;
+       top:70%;
+       left:50%;
+       transform: translate(-50%,-50%);
+       }
+input{
+      -moz-border-radius: 12px;
+	  border-radius:12px;
+	  border:solid 1px black;
+	  padding:5px;
+	  }	  
+img#blur {
+    -webkit-filter: blur(8px); /* Safari 6.0 - 9.0 */
+    filter: blur(8px);
+	}
+	  
+</style>   
+</head>
+<body>
+<table width="1340" height="50" bgcolor="lemonchiffon" >
+<tr >
+<td align="left" ><img src="logo.png" width="300" height="100" /> </td>
+<th align="right"><b><font face="Bradley Hand ITC"> RIT &nbsp FESTOPEDIA</font></b></th>
+</tr>
+</table>
+<h1><center>Create your Festopedia account</center></h1>
+<div>
+<img src="1398182882phpVGC9y8.jpeg" id="blur" width="1340" height="490"/>
+<div class="form">
+<form>
+<b>FIRST NAME:  <input type="text" name="first_name" />
+&nbsp;
+&nbsp;
+SECOND NAME: <input type="text" name="Second_name" />
+</form>
+<form> 
+<br/>
+USN: &nbsp; &nbsp;<input type="text" name="usn" />
+&nbsp;
+&nbsp;
+EMAIL:&nbsp; &nbsp; <input type="text" name="email" />
+</form>
+<form>
+<br/>
+USERNAME: &nbsp; &nbsp; <input type="text" name="username" />
+&nbsp;
+&nbsp;
+PASSWORD:&nbsp; &nbsp;  <input type="password" name="Password" />
+</form>
+<form>
+<br/>
+GENDER:&nbsp; &nbsp; <input type="radio" name="male" value="male"/> Male
+                     <input type="radio" name="female" value="female"/> Female					 
+&nbsp;
+&nbsp;
+<br/>
+<br/>
+MOBILE:&nbsp; &nbsp;<input type="number" name="mobile" />
+&nbsp;
+&nbsp;
+DOB: &nbsp; &nbsp; <input type="number" name="Date" />
+                  
+</form>
+<center>
+<form>
+<br/>
+<input type="submit" name="Register" value="Register" />
+</b>
+</center>
+</form>
+</div>
+</body>
+</html>

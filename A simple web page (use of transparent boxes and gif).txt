@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>NSS</title>
+<link rel="icon" type="image/gif/png" href="Ramaiah_Institutions_Logo.png">
+<style>
+img{
+    position:absolute;
+    left:5%;
+	top:20%;
+    border-radius:100%;
+	
+	}
+	 
+	 
+body{
+     background-image:url("1512389.jpg");
+    }
+.upper{
+       margin: 30px;
+       background-color: #ffffff;
+       border: 1px solid black;
+       opacity: 0.6;
+       filter: alpha(opacity=60); /* For IE8 and earlier */
+	   position:absolute;
+	   top:-10%;
+	   left:-5%;
+	   width:1402px;
+	   height:200px;
+	   background:rgba(0,0,0,0.8);
+	   }
+.button{
+       position:absolute;
+       top:5%;
+       right:3%;
+	   font-family:ARIEL;
+	   font-weight:bold;
+	   background-color:green;
+	  font-size:25px;
+	  color:white;
+	  border:none;
+       }	   
+button:hover{
+            opacity:0.8;
+			cursor:pointer;
+	        } 
+.heading{
+         font-size:25px;
+         color:solid black;
+		 font-weight:bold;
+        }		 
+	 
+.basicbox{
+          margin: 30px;
+          background:rgba(225,120,800,.4);
+          position:absolute;
+          top: 25%;
+          left:30%;
+          width:500px;
+          height:350px;
+          padding:10px;
+          border-radius:5%;		  
+		  
+          }
+     .base1{
+           	 
+          margin: 30px;
+          background:rgba(0,225,300,.4);
+          position:absolute;
+          top: 68%;
+          left:1%;
+          width:400px;
+          height:250px;
+          padding:10px;
+          border-radius:5%;
+		  }
+    .base2{
+	      margin: 30px;
+          background:rgba(0,0,225,.4);
+          position:absolute;
+          top: 70%;
+          left:65%;
+          width:425px;
+          height:310px;
+          padding:10px;
+          border-radius:5%;
+		  }
+		  
+	.base3{
+	      margin: 30px;
+          background:rgba(225,0,0,.4);
+          position:absolute;
+          top:05%;
+          left:-99%;
+          width:300px;
+          height:260px;
+          padding:10px;
+          border-radius:5%;
+		  
+		  
+          }
+	.img1{
+          border-radius:100%;
+		  position:absolute;
+		  top:-90%;
+		  left:-175%;
+		  cursor:pointer;
+         }
+     .img2{
+          border-radius:100%;
+		  position:absolute;
+		  top:-95%;
+		  left:20%;
+		  cursor:pointer;
+		  }
+</style>
+</head>
+<body>
+<div class="upper">
+<img src="27021954_1695355993859673_4356562603666597980_o.jpg" width="150" height="150"/>
+</div>
+<form>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/web%20designing%20project/HTMLDIYA/count.html" target="_self"><button type="submit" class="button">REGISTER</button></a>
+</form>
+<div class="heading">
+<h1 align="center">NATIONAL SERVICE SCHEME</h1>
+</div>
+<div class="basicbox">
+<h2>NSS-MSRIT is an active student organization. We are the National Service Scheme wing of M. S. Ramaiah Institute of Technology. We work towards developing social responsibility among our student volunteers. We plan and execute activities over each academic year, which are structured for the development of our society. We take a keen interest in carrying out vocational training for the underprivileged.
+</h2>
+</div>
+<div class="base1">
+<h2>In our initiative to restore some greenery in Bengaluru we plant tree sapling every year. We host collection drives to collect supplies like books, stationary, groceries, clothes and bed spreads. We donate these supplies when we visit orphanages and old age homes.
+</h2>
+</div>
+<div class="base2">
+<h2>We strongly believe in educating our future generation. Every year we conduct a Special Camp in which we adopt a few government schools in our locality. During this camp our volunteers teach government school children for a period of 15 days. We focus on building the English speaking ability and developing computer operating skills of the government school children. 
+</h2>
+<div class="base3">
+<h2>We also hold community outreach programs during which we conduct free health checkups in residential colonies around our Institute. We also conduct awareness programs which focus on addressing social issues.
+</h2>
+</div>
+<div class="img1">
+<img src="21617527_1570929946302279_143631602917877500_n.jpg" width="280" height="280"/>
+</div>
+<div class="img2">
+<img src="donate_blood_drop_rip_a_hb-350x350.gif" width="300" height="300"/>
+</div>
+</body>
+</html>

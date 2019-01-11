@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>RIT Festopedia</title>
+<link rel="icon" type="image/gif/png" href="Ramaiah_Institutions_Logo.png">
+<style type="text/css">
+body{
+  margin:0;
+  padding:0;
+  background: url(college-fest-1050x591.jpg);
+  background-repeat: no-repeat;
+  background-size: 1280px 800px;
+  background-color:black;
+  
+  }
+  .box
+{
+    position: absolute;
+    top: 0%;
+	left: 0%;
+	width: 1280px;
+	padding: 0px;
+	background: rgba(0,0,0,.6);
+	box-sizing: border-box;
+	box-shadow: 0 0px 0px rgba(0,0,0,.5);
+    height: 100px	
+}
+
+.logo
+{
+    top:0%;
+	left:0%;
+}
+
+.button
+{
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 8px;
+  width: 80px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  position:absolute;
+  top: 30px;
+  right:20px;
+}
+
+.button1
+{
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 8px;
+  width: 80px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  position:absolute;
+  top:30px;
+  right:120px;  
+}
+.centered
+{
+   position:relative;
+   top: 120px;
+   left: 20px; 
+   font-size: 80px;
+   text-shadow:5px 5px 3px #aaa;
+}	
+.about
+{
+   position:absolute;
+   top:700px;
+   font-size: 11px;
+   letter-spacing:1px;
+   word-spacing: 5px;
+}
+
+hr
+{  display: block;
+    margin-top: 170em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width:0.5px;
+	
+} 	
+.udbhav
+{
+    position: absolute;
+    top:1000px;
+    left:90px;
+    height:270px;
+    width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}    
+
+.tudbhav
+{ 
+   position:absolute;
+   top: 1300px;
+   left: 230px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+   cursor:pointer;
+}   
+.EDC
+{   position: absolute;
+    top:1000px;
+	right:90px;
+	height:270px;
+	width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}	
+
+.tEDC
+{ 
+   position:absolute;
+   top: 1300px;
+   right:210px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+}   
+.KR
+{   position: absolute;
+    top:1500px;
+	left:90px;
+	height:270px;
+	width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}
+
+.tKR
+{  position:absolute;
+   top: 1800px;
+   left:140px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+}
+ .SO
+{   position: absolute;
+    top:1500px;
+	right:90px;
+	height:270px;
+	width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}	
+
+.tSO
+{ 
+   position:absolute;
+   top: 1800px;
+   right:210px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+}
+
+.BDC
+{
+    position: absolute;
+    top:2000px;
+    left:90px;
+    height:270px;
+    width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}    
+
+.tBDC
+{ 
+   position:absolute;
+   top: 2300px;
+   left: 250px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+}   
+.IEEE
+{   position: absolute;
+    top:2000px;
+	right:90px;
+	height:270px;
+	width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}	
+
+.tIEEE
+{ 
+   position:absolute;
+   top: 2300px;
+   right:210px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+} 
+
+
+.SD
+{
+    position: absolute;
+    top:2500px;
+    left:90px;
+    height:270px;
+    width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}    
+
+.tSD
+{ 
+   position:absolute;
+   top: 2800px;
+   left: 210px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+}   
+
+.TF
+{   position: absolute;
+    top:2500px;
+	right:90px;
+	height:270px;
+	width:390px;
+	border-radius:10px;
+	cursor:pointer;
+}	
+
+.tTF
+{ 
+   position:absolute;
+   top: 2800px;
+   right:150px; 
+   font-size: 30px;
+   text-shadow:1px 1px 1px;
+}   
+
+  
+
+
+  
+</style>
+
+</head>
+<body>
+<div class="box">
+<img src="logo.png" width="220" height="100" class="logo"/>
+<form>
+<button class="button" formaction="file:///C:/Users/Aakriti%20Suman/Desktop/RIT%20festopedia/Login.html"><span>Login</span></button>
+&nbsp &nbsp 
+<button class="button1" formaction="file:///C:/Users/Aakriti%20Suman/Desktop/RIT%20festopedia/web%20designing%20project/signup2.html"><span>Sign In</span></button>
+</form>
+<div class="centered"><font face="comic sans ms" color="white">RIT Festopedia</div></font>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/web%20designing%20project/UDBHAV/UDBHAV.html#" target="_blank">
+<img src="PIC20.jpg" class="udbhav">
+</a>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/web%20designing%20project/web%20designing%20project/eweek.html" target="_blank">
+<img src="maxresdefault.jpg" class="EDC">
+</a>
+<div class="tudbhav"><font face="Consolas" color="white">Udbhav</div></font>
+<div class="tEDC"><font face="Consolas" color="white">EDC</div></font>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/annada/kann.html" target="_blank">
+<img src="maxresdefault (1).jpg" class="KR">
+</a>
+<div class="tKR"><font face="Consolas" color="white">Kannada Rajyostava</div></font>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/web%20designing%20project/UDBHAV/shoutout.html" target="_blank">
+<img src="maxresdefault5.jpg" class="SO">
+</a>
+<div class="tSO"><font face="Consolas" color="white">Shoutout</div></font>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/web%20designing%20project/bdc/BDC.HTML" target="_blank">
+<img src="download.png" class="BDC">
+</a>
+<div class="tBDC"><font face="Consolas" color="white">NSS</div></font>
+<a href="" target="_blank">
+<img src="unnamed.png" class="IEEE">
+</a>
+<div class="tIEEE"><font face="Consolas" color="white">IEEE</div></font>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/annada/sports.html#" target="_blank">
+<img src="SPORTS_DAY_1.jpg" class="SD">
+</a>
+<div class="tSD"><font face="Consolas" color="white">Sports Day</div></font>
+<a href="file:///C:/Users/Abhigya%20Parashar/Desktop/RIT%20festopedia/Inter-Departmental%20Techfest.html" target="_blank">
+<img src="download (1).png" class="TF">
+</a>
+<div class="tTF"><font face="Consolas" color="white">Departmental Tech-fest</div></font>
+<hr>
+<p class="about"><font face="Times New Roman" color="white"><center>About<br/><br/>Follow us on: Facebook, Instagram, Google+<br/></br>Contact us<br/></br>Donate and Contribute<br/></br>Sponsors and sponsorship<br/></br>Participate<br/><br/></center></font></p>
+</body>
+</html>
